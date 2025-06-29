@@ -1,5 +1,5 @@
 streamlit
-PyRoxy
+PyRoxy==2.2.0
 yarl
 certifi
 cloudscraper
